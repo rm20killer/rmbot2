@@ -1,0 +1,1 @@
+[null,{"name":"NewEvent","temp":"chal","event-type":"34","actions":[{"channel":"5","varName":"text","message":"i see u","storage":"1","varName2":"text","name":"Send Message"}],"temp2":"user"},{"name":"NewEvent","temp":"chal","event-type":"37","actions":[{"channel":"4","varName":"","message":"bot error","storage":"0","varName2":"","name":"Send Message"}],"temp2":"user"}]
